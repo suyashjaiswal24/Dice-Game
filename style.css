@@ -1,0 +1,70 @@
+body{
+    background: url("./images/gaming-dice-color-background_127657-11045-transformed.jpeg") no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-left: 500px;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-family: cursive;
+    font-size: 5rem;
+    color: rgb(116, 8, 116) ;
+}
+
+h2{
+    margin-bottom: 45px;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(29, 29, 218)
+}
+
+label{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#dice{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+span{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    padding: 10px 0;
+    border: 1px solid rebeccapurple;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-top: 10px;
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: red;
+    background-color: rgb(255, 251, 2);
+    border: 2px solid;
+}
+button:hover{
+    color: yellow;
+    background-color: blueviolet;
+}
+
+p{
+    margin-top: 0;
+    font-weight: bolder;
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(112, 32, 21);
+}
